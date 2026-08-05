@@ -10,7 +10,7 @@ evidence lifecycles for regulated operations.
 
 | | |
 |---|---|
-| **[SENTINEL](https://github.com/karasov-co/sentinel-audit)** | Adversarial audit council for police bodycam footage. Prosecution, Defense and Judge agents on deliberately different model families. Every verdict traceable to a specific utterance index and video timestamp, across four jurisdictions. **3rd of 731 teams, Milan AI Week 2026.** [Live demo](https://sentinel-audit.co) |
+| **[SENTINEL](https://github.com/karasov-co/sentinel-audit)** | Adversarial audit council for police bodycam footage. Prosecution, Defense and Judge agents on deliberately different model families. Every verdict traceable to a specific utterance index and video timestamp, across four jurisdictions. **Prize Winner, Milan AI Week 2026.** [Live demo](https://sentinel-audit.co) |
 | **[Claude Code delivery toolkit](https://github.com/karasov-co/claude-code-delivery)** | Slash commands for client delivery — scaffolding, structured review, deploy verification, progress reporting. |
 | **Production systems** | Lead-operations pipelines running 10,000+ executions for US design-build firms; multilingual voice-to-structured-event layers for field crews. Client work, mostly under NDA. |
 
