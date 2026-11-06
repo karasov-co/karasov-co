@@ -21,6 +21,7 @@ I take a messy, document-heavy process from the first client call to a system in
 | **[SENTINEL](https://github.com/karasov-co/sentinel-audit)** | Adversarial multi-agent court for police bodycam footage. Prosecution, Defense and Judge agents run on different model families; every verdict points to an utterance and a video timestamp. Published evals, failures included. 3rd place, Featherless AI track, AI Agent Olympics at Milan AI Week 2026.<br>[Live demo](https://sentinel-audit.co) · [Evals](https://github.com/karasov-co/sentinel-audit/blob/main/docs/EVALS.md) |
 | **[photo-ai-toolkit](https://github.com/karasov-co/photo-ai-toolkit)** | Culls a photo shoot into five piles and ranks every frame by what it becomes after a normal edit. Runs locally with no API key; a vision model adds the content read. |
 | **[claude-code-delivery](https://github.com/karasov-co/claude-code-delivery)** | Five Claude Code slash commands for client delivery: scaffolding, code review, deploy checks, client reports, estimates. |
+| **[domain-triage](https://github.com/karasov-co/domain-triage)** | Resumable pipeline that scores a CSV of domains on transparent rules, recommends an action for each and writes a readable report. 100 domains in about 20 seconds; a failed domain never stops the run. |
 
 ### How I measure
 
@@ -32,6 +33,8 @@ I take a messy, document-heavy process from the first client call to a system in
 ### Stack
 
 Python · TypeScript · Next.js · FastAPI · Postgres and pgvector on Supabase · Claude API · LangGraph · MCP · Claude Code
+
+For quick builds where they save the client time and budget: n8n, Make (Make Advanced certified), Zapier.
 
 ### Before AI
 
